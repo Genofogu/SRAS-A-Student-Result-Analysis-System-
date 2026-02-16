@@ -1,0 +1,5 @@
+{
+  "name": "PyProject Studio",
+  "description": "A browser-based Python project workspace that allows users to view, edit, and simulate Python projects with multi-file support. Features AI-powered code generation and context-aware execution simulation.",
+  "requestFramePermissions": []
+}
